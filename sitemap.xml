@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://geopython.github.io/pygeometa/schema-support/</loc>
+        <loc>https://geopython.github.io/pygeometa/</loc>
       </url>
       <url>
-        <loc>https://geopython.github.io/pygeometa/tutorial/</loc>
+        <loc>https://geopython.github.io/pygeometa/pygeoapi-plugin/</loc>
       </url>
       <url>
-        <loc>https://geopython.github.io/pygeometa/reference/mcf/</loc>
+        <loc>https://geopython.github.io/pygeometa/reference/</loc>
       </url>
       <url>
         <loc>https://geopython.github.io/pygeometa/reference/extensions/iso19139-2/</loc>
@@ -25,6 +25,12 @@
         <loc>https://geopython.github.io/pygeometa/reference/extensions/wmo-wigos/</loc>
       </url>
       <url>
-        <loc>https://geopython.github.io/pygeometa/pygeoapi-plugin/</loc>
+        <loc>https://geopython.github.io/pygeometa/reference/mcf/</loc>
+      </url>
+      <url>
+        <loc>https://geopython.github.io/pygeometa/schema-support/</loc>
+      </url>
+      <url>
+        <loc>https://geopython.github.io/pygeometa/tutorial/</loc>
       </url>
 </urlset>
